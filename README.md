@@ -6,7 +6,7 @@ $ cat role.txt
 Platform engineer — infrastructure as code, CI that developers trust, and quiet pagers
 
 $ echo $LOCATION
-Remote · CET
+Remote · IND
 ```
 
 ### `$ cat about.md`
@@ -40,9 +40,6 @@ My focus is shrinking the feedback loop from code commit to zero-downtime deploy
 
 → [Mail](remoramu12@gmail.com)
 → [LinkedIn](https://www.linkedin.com/in/ramkrishna-karmakar-8119a5199?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
-`$ open showproof` [View my full profile on ShowProof →](https://showproof.io/@your-handle)
-
 <!--
 remoramu12/remoramu12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
